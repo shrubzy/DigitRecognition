@@ -1,4 +1,3 @@
-<--------------------------------------------------README-------------------------------------------------->
 By default the program expects the MNIST dataset to be in the same directory as python files.
 This can be changed in "neuralnet.py".
 
@@ -21,4 +20,3 @@ The program can be terminated by typing "exit" when prompted for a filepath.
 
 The virtual environment is deactivate by using the command "deactivate".
 The virtual environment can be cleaned using "make clean".
-<---------------------------------------------------------------------------------------------------------->
