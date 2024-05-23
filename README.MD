@@ -1,3 +1,5 @@
+# Description
+
 By default the program expects the MNIST dataset to be in the same directory as python files.
 This can be changed in "neuralnet.py".
 
