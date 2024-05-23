@@ -1,13 +1,17 @@
 # Description  
-A script that trains a neural network to classify handwritten digits using the MNIST dataset.  
-After the neural network is trained the user is prompted for a file path to a handwritten digit which the neural network will attempt to classify.  
+A script that trains a neural network to classify handwritten digits using the MNIST dataset.   
 
+# Options  
 By default the program expects the MNIST dataset to be in the same directory as python files.
-This can be changed in "neuralnet.py".
+This can be changed so that the dataset is downloaded in "neuralnet.py".
 
 There is a flag in "neuralnet.py" that controls whether the images should be shown as a matplotlib plot.
 This is set to false by default.
 
+# Install  
+Download the files in the repository.  
+
+# Run
 Running the "make" command creates the virtual environment and installs the required libraries.
 
 The virtual environtment is activated using the command:
