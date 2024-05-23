@@ -1,4 +1,7 @@
-# Description
+# Description  
+A script that trains a neural network to classify handwritten digits using the MNIST dataset.  
+After the neural network is trained the user is prompted for a file path to a handwritten digit  
+which the neural network will attempt to classify.  
 
 By default the program expects the MNIST dataset to be in the same directory as python files.
 This can be changed in "neuralnet.py".
